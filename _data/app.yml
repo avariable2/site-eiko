@@ -1,48 +1,18 @@
-name: Screenshot Maker - NeonFrame
-description: 🔥Make eye-catching screenshots with ease! Share on Twitter, Instagram, LinkedIn, and others.
-full_description: '<b>v1.9.0 (Oct 29, 2024)</b><br>
-<br>- Option to export images in high-quality (4k). Available in Settings.
-<br>
-<br><b>v1.8.4 (Sep 6, 2024)</b><br>
-<br>- Added support for Themed icons on Android 13+
-<br>- UI fixes and improvements
-<br>
-<br><b>v1.8.0 (July 29, 2024)</b><br>
-<br>- Auto-generated gradient
-<br>- Fixed incorrect image orientation
-<br>- Minor improvements
-<br>
-<br><b>v1.7.0 (June 18, 2024)</b><br>
-<br>- Added predefined gradient backgrounds.
-<br>
-<br><b>v1.6.0 (May 3, 2024)</b><br>
-<br>- Integrated In-App Review API
-<br>- Minor improvements
-<br>
-<br><b>v1.5.0 (Apr 13, 2024)</b><br>
-<br>- You can remove the watermark or set your own text instead for a small one-time fee.
-<br>- New Onboarding screen.
-<br>- Minor UI improvements.
-<br>
-<br><b>v1.4.0 (Mar 29, 2024)</b><br>
-<br>- Add own colors to glow and background
-<br>- Remove existing colors (long tap on color to activate a removing mode)
-<br>
-<br><b>v1.3.0 (Mar 18, 2024)</b><br>
-<br>- Added ability to receive the image from other apps via Android Sharesheet dialog
-<br>- Pinch to zoom-in/zoom-out the image when background is turned on
-<br>- Fix for splash screen on Android 12 and lower
-<br>- Minor UI fixes
-<br>
-<br><b>v1.2.0 (Mar 11, 2024)</b><br>
-<br>- Now you can add a background color and change the size: 1:1, 4:3, 9:16 for Instagram Stories, 2:1 for Twitter, 1.91:1 for LinkedIn
-<br>
-<br><b>v1.1.0 (Feb 16, 2024)</b><br>
-<br>- Added a new screen with sharing options once the image is exported
-<br>- Improved an image processing. Export takes less time now
-<br>- Added a new overview video to Google Play'
+name: Eiko – Connect, Share, and Inspire Your Athletic Journey
+description: 🔥Share your achievements, announce your races, and receive support from friends while inspiring the athletic community.
+full_description: '<b>v0.0.1</b><br>
+Features Designed for Passionate Athletes<br>
+1. Track Your Achievements<br>
+Monitor and display your sporting accomplishments. Whether you’re a marathon runner or a triathlete, Eiko allows you to document every step of your journey.<br>
+2. Announce Your Upcoming Races<br>
+Inform your friends and community about the races you’re participating in. Plan and share your athletic goals with ease.<br>
+3. Receive Real-Time Encouragement<br>
+Your friends can support you with reactions and motivational messages during your races. Turn every race into a rewarding community experience.<br>
+4. Inspire Other Athletes<br>
+Your journey can motivate other athletes. Share your stories, challenges, and successes to encourage the athletic community to push their limits.
+<br>'
 android: false
-iOS: false
+iOS: https://apps.apple.com/fr/app/bordero/id6502880132
 web: false
 screenshots:
   - 01-screenshot.png
