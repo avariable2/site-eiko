@@ -30,7 +30,7 @@ github: false
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
 #google: verification_code
-google_analytics: G-7J55TB6YYJ
+google_analytics: false
 #doorbell:
 #  id: doorbell_id
 #  appKey: doorbell_appKey
