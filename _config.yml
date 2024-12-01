@@ -6,8 +6,8 @@
 title: Screenshot Maker Android app 🔥 Make eye-catching screenshots with ease!
 email: support@mobile-dev.pro
 description: This screenshot generator allows you to create and share screenshots in a few taps.
-baseurl: "/site-eiko" # the subpath of your site, e.g. /blog
-url: "https://avariable2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://eikoapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
 twitter_username: mobiledev_pro
 github_username:  mobiledevpro
@@ -36,6 +36,7 @@ google_analytics: false
 #  appKey: doorbell_appKey
 
 #cookie_consent: true
+include: [".well-known"]
 
 ### Build settings
 markdown: kramdown
