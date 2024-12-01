@@ -36,7 +36,9 @@ google_analytics: false
 #  appKey: doorbell_appKey
 
 #cookie_consent: true
-include: [".well-known"]
+include: 
+  - .well-known
+  - .htaccess
 
 ### Build settings
 markdown: kramdown
