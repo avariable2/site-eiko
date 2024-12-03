@@ -1,4 +1,5 @@
 require 'jekyll'
+require 'rack'
 
 # Middleware pour définir le Content-Type pour le fichier AASA
 class AASAContentType
