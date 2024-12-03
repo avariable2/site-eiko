@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-ruby '3.2.3'  # Assurez-vous que cette version correspond à celle installée
+# Spécifiez la version de Ruby supportée par Heroku
+ruby '3.2.3'
 
 # Gemmes pour GitHub Pages
 require 'json'
