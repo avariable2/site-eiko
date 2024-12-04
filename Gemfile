@@ -1,4 +1,11 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
+
+ruby "3.1.4"
+
+gem "rack"
+gem "rackup"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -13,9 +20,6 @@ source "https://rubygems.org"
 require 'json'
 require 'net/http'
 versions = JSON.parse(Net::HTTP.get(URI('https://pages.github.com/versions.json')))
-
-gem "rack"
-gem "rackup"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
