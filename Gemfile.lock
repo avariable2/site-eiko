@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+<<<<<<< HEAD
     activesupport (7.1.5)
       base64
       benchmark (>= 0.3)
@@ -310,16 +311,18 @@ GEM
     unicode-display_width (1.8.0)
     uri (1.0.2)
     webrick (1.8.1)
+=======
+    rack (3.1.8)
+    rackup (2.2.1)
+      rack (>= 3)
+>>>>>>> fix/branche
 
 PLATFORMS
-  aarch64-linux
-  arm-linux
-  arm64-darwin
-  x86-linux
-  x86_64-darwin
-  x86_64-linux
+  arm64-darwin-24
+  ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   amp-jekyll
   github-pages (= 232)
   jekyll
@@ -333,6 +336,14 @@ DEPENDENCIES
 
 RUBY VERSION
    ruby 3.2.3p157
+=======
+  rack
+  rackup
+  tzinfo-data
+
+RUBY VERSION
+   ruby 3.1.4p223
+>>>>>>> fix/branche
 
 BUNDLED WITH
    2.5.23

@@ -1,1 +1,2 @@
-web: bundle exec rackup config.ru -p $PORT
+
+web: bundle exec jekyll build && bundle exec ruby server.rb
