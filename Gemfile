@@ -14,6 +14,9 @@ require 'json'
 require 'net/http'
 versions = JSON.parse(Net::HTTP.get(URI('https://pages.github.com/versions.json')))
 
+gem "rack"
+gem "rackup"
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", versions['github-pages'], group: :jekyll_plugins
